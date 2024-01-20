@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dins&label=Profile%20views&color=0e75b6&style=flat" alt="c0dins" /> </p>
 
-- 🔭 I’m currently working at **Neon Reach Studios and Phantom Innovations**
+- 🔭 I’m currently working at **Phantom Innovations**
 
 - 🌱 I’m currently learning **React and JSwing**
 
