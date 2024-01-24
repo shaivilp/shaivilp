@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **Phantom Innovations**
 
-- 🌱 I’m currently learning **React and JSwing**
+- 🌱 I’m currently learning **NextJS and Kubernetes**
 
-- 💬 Ask me about **springboot, cryptography, math, java**
+- 💬 Ask me about **spring boot, cryptography, math, java**
 
 - 📫 How to reach me **shaivil@phantominv.studio**
 
