@@ -27,6 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0dins&show_icons=true&theme=dark&locale=en&layout=compact" alt="c0dins" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0dins&show_icons=true&theme=dark&locale=en" alt="c0dins" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0dins&theme=dark" alt="c0dins" /></p>
