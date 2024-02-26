@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaivil (c0dins)</h1>
+<h1 align="center">Hi 👋, I'm Shaivil</h1>
 <h3 align="center">A passionate backend developer from the states</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dins&label=Profile%20views&color=0e75b6&style=flat" alt="c0dins" /> </p>
