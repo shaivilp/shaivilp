@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJS and Kubernetes**
 
-- 💬 Ask me about **spring boot, cryptography, math, java**
-
 - 📫 How to reach me **shaivil@phantominv.studio**
 
 - 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me)
