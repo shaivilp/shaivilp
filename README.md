@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dins&label=Profile%20views&color=0e75b6&style=flat" alt="c0dins" /> </p>
 
-- 🔭 I’m currently working at **Phantom Innovations**
+- 🔭 I’m currently working on **Phantom Innovations**
 
-- 🌱 I’m currently learning **NextJS and Kubernetes**
+- 🌱 I’m currently learning **Data visualization / analysis**
 
-- 📫 How to reach me **shaivil@phantominv.studio**
+- 📫 How to reach me **codins@mail.phantominv.studio**
 
 - 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me)
 
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaivil-patel-561b582a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaivil-patel-561b582a4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codins" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/c0dins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c0dins" height="30" width="40" /></a>
 </p>
 
