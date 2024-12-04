@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Data visualization / analysis**
 
-- 📫 How to reach me **codins@mail.phantominv.studio**
+- 📫 How to reach me **shaivil@mail.phantominv.studio**
 
-- 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me)
+- 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me) (Not Currently up)
 
 - ⚡ Fun fact **I like to get active and play sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaivil-patel-561b582a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaivil-patel-561b582a4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/c0dins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c0dins" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shaivilp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c0dins" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
