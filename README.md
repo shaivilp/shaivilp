@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data visualization / analysis**
 
-- 📫 How to reach me **shaivil@mail.phantominv.studio**
+- 📫 How to reach me **codins@mail.phantominv.studio**
 
 - 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me) (Not Currently up)
 
