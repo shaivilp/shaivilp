@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **codins@mail.phantominv.studio**
 
-- 📄 Know about my experiences and projects [shaivilpatel.me](shaivilpatel.me) (Not Currently up)
+- 📄 Know about my experiences and projects [shaivilpatel.me](https://shaivilpatel.me)
 
 - ⚡ Fun fact **I like to get active and play sports!**
 
