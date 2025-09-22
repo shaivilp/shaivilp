@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dins&label=Profile%20views&color=0e75b6&style=flat" alt="c0dins" /> </p>
 
-- 🔭 I’m currently working on **Phantom Innovations**
+- 🔭 I’m currently working on **Vici Sports Science**
 
-- 🌱 I’m currently learning **Data visualization / analysis**
+- 🌱 I’m currently learning **Computer Vision and Deep Neural Networks**
 
 - 📫 How to reach me **me@mail.shaivilpatel.me**
 
